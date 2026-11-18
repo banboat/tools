@@ -5,6 +5,7 @@
 | 工具 | 一句话 | 下载 | 源码 |
 |---|---|---|---|
 | **SlotShift** | 把任意模型换进 Claude 的模型位；Claude Desktop / Claude Code 的本地模型代理 | [SlotShift.dmg](https://github.com/banboat/SlotShift/releases/latest) | [banboat/SlotShift](https://github.com/banboat/SlotShift) |
+| **Quadro** | macOS 多窗格文件工作台；1/2/3/4 窗格、拖拽、跨窗格复制移动 | [Quadro-1.0.dmg](https://github.com/banboat/Quadro/releases/latest) | [banboat/Quadro](https://github.com/banboat/Quadro) |
 
 ## 为什么不是一个仓库
 
