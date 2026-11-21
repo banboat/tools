@@ -6,7 +6,7 @@
 |---|---|---|---|
 | **SlotShift** | 把任意模型换进 Claude 的模型位；Claude Desktop / Claude Code 的本地模型代理 | [SlotShift.dmg](https://github.com/banboat/SlotShift/releases/latest) | [banboat/SlotShift](https://github.com/banboat/SlotShift) |
 | **Quadro** | macOS 多窗格文件工作台；1/2/3/4 窗格、拖拽、跨窗格复制移动 | [Quadro-1.0.dmg](https://github.com/banboat/Quadro/releases/latest) | [banboat/Quadro](https://github.com/banboat/Quadro) |
-| **ShotRename** | 视频批量重命名；按拍摄时间、机型、GPS 与侧车文件命名，本地优先、开源 | 开发中 | [banboat/shotrename](https://github.com/banboat/shotrename) |
+| **ShotRename** | 视频批量重命名；按时间、机型、GPS 与侧车命名，支持影石双镜头/GoPro 章节成组、离线地名、watch 与本地网页 UI | v0.2 | [banboat/shotrename](https://github.com/banboat/shotrename) |
 
 ## 为什么不是一个仓库
 
